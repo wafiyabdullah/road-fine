@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=
+comment1.target=Vehicle()
+comment2.params=speed\ speedLimit
+comment2.target=Vehicle(double,\ double)
+comment3.params=
+comment3.target=double\ getSpeed()
+comment4.params=speed
+comment4.target=void\ setSpeed(double)
+comment5.params=
+comment5.target=double\ getSpeedLimit()
+comment6.params=speedLimit
+comment6.target=void\ setSpeedLimit(double)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=double\ getTotalPayment()
+numComments=9

@@ -1,0 +1,31 @@
+Class documentation
+<---- javadoc command: ---->
+D:\Blue J\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+17
+-classpath
+D:\Blue J\lib\bluejcore.jar;D:\Blue J\lib\junit-jupiter-5.5.2.jar;D:\Blue J\lib\junit-jupiter-api-5.5.2.jar;D:\Blue J\lib\junit-jupiter-engine-5.5.2.jar;D:\Blue J\lib\junit-jupiter-migrationsupport-5.5.2.jar;D:\Blue J\lib\junit-jupiter-params-5.5.2.jar;D:\Blue J\lib\junit-platform-commons-1.5.2.jar;D:\Blue J\lib\junit-platform-console-1.5.2.jar;D:\Blue J\lib\junit-platform-console-standalone-1.5.2.jar;D:\Blue J\lib\junit-platform-engine-1.5.2.jar;D:\Blue J\lib\junit-platform-launcher-1.5.2.jar;D:\Blue J\lib\junit-platform-reporting-1.5.2.jar;D:\Blue J\lib\junit-platform-runner-1.5.2.jar;D:\Blue J\lib\junit-platform-suite-api-1.5.2.jar;D:\Blue J\lib\junit-platform-testkit-1.5.2.jar;D:\Blue J\lib\junit-quickcheck-core-0.9.jar;D:\Blue J\lib\junit-vintage-engine-5.5.2.jar;D:\Blue J\lib\hamcrest-core-1.3.jar;D:\Blue J\lib\hamcrest-library-1.3.jar;D:\Blue J\lib\lang-stride.jar;D:\Blue J\lib\javafx\lib\javafx.base.jar;D:\Blue J\lib\javafx\lib\javafx.controls.jar;D:\Blue J\lib\javafx\lib\javafx.fxml.jar;D:\Blue J\lib\javafx\lib\javafx.graphics.jar;D:\Blue J\lib\javafx\lib\javafx.media.jar;D:\Blue J\lib\javafx\lib\javafx.properties.jar;D:\Blue J\lib\javafx\lib\javafx.swing.jar;D:\Blue J\lib\javafx\lib\javafx.web.jar;C:\Users\USER\Desktop\CSC435\Lab\Road fine system
+-d
+C:\Users\USER\Desktop\CSC435\Lab\Road fine system\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\USER\Desktop\CSC435\Lab\Road fine system\Car.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\USER\Desktop\CSC435\Lab\Road fine system\Car.java...
+Constructing Javadoc information...
+Standard Doclet version 17.0.4+8
+Building tree for all the packages and classes...
+Generating C:\Users\USER\Desktop\CSC435\Lab\Road fine system\doc\Car.html...
+Generating C:\Users\USER\Desktop\CSC435\Lab\Road fine system\doc\package-summary.html...
+Generating C:\Users\USER\Desktop\CSC435\Lab\Road fine system\doc\index.html...

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=
+comment1.target=Car()
+comment2.params=speed\ speedLimit
+comment2.target=Car(double,\ double)
+comment3.params=
+comment3.target=double\ getTotalPayment()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
